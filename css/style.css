@@ -1,0 +1,23 @@
+
+
+.text-white{
+	color: white;
+}
+
+.margin-top{
+	margin-top: 10vh;
+}
+
+.margin-bottom{
+	margin-bottom: 5vh;
+}
+.background-lightblue{
+	background-color: lightblue;
+}
+
+.zoom {
+  transition: transform .2s;
+}
+
+.zoom:hover {
+  transform: scale(1.5);
